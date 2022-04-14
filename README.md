@@ -3,4 +3,4 @@ Aqui está publicado um conjunto de códigos em Python desenvolvidos durante o p
 
 Foram utilizados dados dos sensores de campo eletrostático Field Mill localizados na região do Vale do Paraíba (SP), o detector de raios STARNET e dados de radar banda-X localizado em São Jose dos Campos (SP) coletados no período de novembro de 2011 a março de 2012. 
 
-Os dados são referentes ao Projeto CHUVA - Vale do Paraíba, FAPESP 2009/15235-8 e se encontram no link: http://ftp.cptec.inpe.br/chuva/. Acesso em: 22 de janeiro de 2022.
+Os dados são referentes ao Projeto CHUVA - Vale do Paraíba, FAPESP 2009/15235-8 e se encontram no link: http://ftp.cptec.inpe.br/chuva/. Acesso em: 22 de janeiro de 2022. O código 6 foi feito dia 13 de abril de 2022 com dados internos produzidos pela empresa.
